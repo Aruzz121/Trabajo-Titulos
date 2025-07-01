@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TituloElectronico xmlns="https://www.siged.sep.gob.mx/titulos/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.siged.sep.gob.mx/titulos/ schema.xsd" version="1.0" folioControl="1">
+  <FirmaResponsables>
+    <FirmaResponsable nombre="JOSÉ MARÍA" primerApellido="ROBLES" segundoApellido="CASILLAS" curp="RONM530313HJCBYR04" idCargo="1" cargo="DIRECTOR" abrTitulo="ING" noCertificadoResponsable="3030303031303030303030353131333533373531" sello="JAnJQou1Q==" certificadoResponsable="MI3Htlr+4="/>
+    <FirmaResponsable nombre="ALHELI" primerApellido="BALDIVIA" segundoApellido="GONZALEZ" curp="BAGA900406MNTLNL05" idCargo="5" cargo="RESPONSABLE DE EXPEDICIÓN" abrTitulo="ING" noCertificadoResponsable="3030303031303030303030353034323933353738" sello="DmF5P/AGKFKtA==" certificadoResponsable="MIA5zrfjAxEKg=="/>
+  </FirmaResponsables>
+  <Institucion cveInstitucion="180148" nombreInstitucion="UNIVERSIDAD POLITÉCNICA DEL ESTADO DE NAYARIT"/>
+  <Carrera cveCarrera="320306" nombreCarrera="LICENCIATURA EN INGENIERÍA EN AGROTECNOLOGÍA" fechaInicio="2017-09-05" fechaTerminacion="2021-04-30" idAutorizacionReconocimiento="9" autorizacionReconocimiento="OTRO"/>
+  <Profesionista curp="HECD971231HNTRMH03" nombre="DHAMAR ALEJANDRO" primerApellido="HERNANDEZ" segundoApellido="CAMARENA" correoElectronico="SERVICIOSESCOLARESUPEN@UPNAY.EDU.MX"/>
+  <Expedicion fechaExpedicion="2023-06-27" idModalidadTitulacion="6" modalidadTitulacion="OTRO" fechaExencionExamenProfesional="2022-11-29" cumplioServicioSocial="1" idFundamentoLegalServicioSocial="2" fundamentoLegalServicioSocial="ART. 55 LRART. 5 CONST" idEntidadFederativa="18" entidadFederativa="NAYARIT"/>
+  <Antecedente institucionProcedencia="ESCUELA PREPARATORIA NUM. 1" idTipoEstudioAntecedente="4" tipoEstudioAntecedente="BACHILLERATO" idEntidadFederativa="18" entidadFederativa="NAYARIT" fechaTerminacion="2016-08-18"/>
+</TituloElectronico>
