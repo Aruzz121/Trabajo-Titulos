@@ -59,37 +59,32 @@ def generar_pdf(datos, salida="TituloDigital.pdf"):
 
     # DATOS ADMINISTRATIVOS EN DOS LÍNEAS
    
-    pdf.set_xy(60, 170)
-    pdf.cell(70, 6, f"Clave de Institución: {datos['clave_institucion']}        Clave de Carrera: {datos['clave_carrera']}")
-   
+    pdf.set_xy(65, 155)
+    pdf.cell(70, 6, f"{datos['clave_institucion']} ")
+    pdf.set_xy(110, 155)
+    pdf.cell(70, 6, f"{datos['clave_carrera']}")
+    pdf.set_xy(150,155)
+    pdf.cell(70, 6, f"{datos['fecha_terminacion']}")
 
-    pdf.set_xy(60,180)
-    pdf.cell(70, 6, f"Fecha de Terminación: {datos['fecha_terminacion']}        Folio: {datos['folio']}")
+    pdf.set_xy(75, 169)
+    pdf.cell(70, 6, f"{datos['autorizacionReconocimiento']} ")
+    pdf.set_xy(155, 169)
+    pdf.cell(70, 6, f"{datos['modalidadTitulacion']}")
+
+    pdf.set_xy(75, 182.5)
+    pdf.cell(70, 6, f"{datos['cumplioServicioSocial']} ")
+    pdf.set_xy(100, 182.5)
+    pdf.cell(70, 6, f"{datos['fundamentoLegalServicioSocial']}")
+    pdf.set_xy(160, 182.5)
+    pdf.cell(70, 6, f"{datos['entidadFederativa']}")
 
     # QR
-    qr = qrcode.make(f"https://proyecta.upen.edu.mx/valida?folio={datos['folio']}")
+    qr = qrcode.make(f"https://upnay.edu.mx/")
     qr_path = os.path.join(recursos_dir, "qr_temp.png")
     qr.save(qr_path)
     pdf.image(qr_path, x=20.5, y=166, w=30)
 
-    # TEXTO QR
-    pdf.set_font("Arial", "", 7)
-    pdf.set_xy(25, 220)
-    pdf.cell(60, 4, "QR para validar la información", ln=1)
-    pdf.set_x(25)
-    pdf.cell(60, 4, "en proyecta.upen.edu.mx", ln=1)
-
-    # SELLO DIGITAL
-    sello_path = os.path.join(recursos_dir, "sello_digital.png")
-    if os.path.exists(sello_path):
-        pdf.image(sello_path, x=150, y=190, w=150)
-
-    # SELLOS Y CADENA ORIGINAL
-    pdf.set_xy(25, 235)
-    pdf.set_font("Arial", "", 9)
-    pdf.cell(0, 6, "Sello Digital Rector:", ln=1)
-    pdf.cell(0, 6, "Sello Digital Servicios Escolares:", ln=1)
-    pdf.cell(0, 6, "Cadena Original:", ln=1)
+   
 
     # GUARDAR PDF
     pdf.output(salida)

@@ -13,6 +13,8 @@ def xml_a_diccionario(xml_path):
     carrera = root.find('ns:Carrera', ns)
     alumno = root.find('ns:Profesionista', ns)
     expedicion = root.find('ns:Expedicion', ns)
+  
+
 
     def formatear_fecha(fecha_str):
         meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio",
@@ -23,11 +25,16 @@ def xml_a_diccionario(xml_path):
     return {
         'nombre': f"{alumno.get('nombre')} {alumno.get('primerApellido')} {alumno.get('segundoApellido')}",
         'carrera': carrera.get('nombreCarrera'),
-        'clave_institucion': institucion.get('cveInstitucion'),
-        'clave_carrera': carrera.get('cveCarrera'),
         'fecha_examen': formatear_fecha(expedicion.get('fechaExencionExamenProfesional')),
         'fecha_expedicion': formatear_fecha(expedicion.get('fechaExpedicion')),
+        'clave_institucion': institucion.get('cveInstitucion'),
+        'clave_carrera': carrera.get('cveCarrera'),
         'fecha_terminacion': datetime.strptime(carrera.get('fechaTerminacion'), "%Y-%m-%d").strftime("%d-%m-%Y"),
+        'autorizacionReconocimiento':carrera.get('autorizacionReconocimiento'),
+        'modalidadTitulacion':expedicion.get('modalidadTitulacion'),
+        'cumplioServicioSocial':expedicion.get('cumplioServicioSocial'),
+        'fundamentoLegalServicioSocial':expedicion.get('fundamentoLegalServicioSocial'),
+        'entidadFederativa':expedicion.get('entidadFederativa'),
         'folio': root.get('folioControl')
     }
 
