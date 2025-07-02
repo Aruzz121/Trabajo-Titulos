@@ -32,11 +32,13 @@ def xml_a_diccionario(xml_path):
     }
 
 if __name__ == "__main__":
-    archivo_xml = input("🔍 Ingresa el nombre del archivo XML (ej. archivo.xml): ").strip()
+    datos = xml_a_diccionario("230032.xml")
+    generar_pdf(datos, "TituloDigital.pdf")
+    """archivo_xml = input("🔍 Ingresa el nombre del archivo XML (ej. archivo.xml): ").strip()
     
     if not os.path.exists(archivo_xml):
         print("❌ Archivo XML no encontrado.")
     else:
         datos = xml_a_diccionario(archivo_xml)
         generar_pdf(datos, "TituloDigital.pdf")
-        print("✅ PDF generado correctamente como 'TituloDigital.pdf'")
+        print("✅ PDF generado correctamente como 'TituloDigital.pdf'")"""

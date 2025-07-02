@@ -29,22 +29,14 @@ def generar_pdf(datos, salida="TituloDigital.pdf"):
     # FOTO DEL ALUMNO
     foto_path = os.path.join(recursos_dir, "foto_alumno.jpg")
     if os.path.exists(foto_path):
-        pdf.image(foto_path, x=20, y=48, w=35, h=45)
+        pdf.image(foto_path, x=15, y=60, w=35, h=45)
 
     # DATOS DEL ALUMNO
-    pdf.set_xy(70, 50)
-    pdf.set_font("Arial", "", 11)
-    pdf.cell(0, 6, "Se expide a:", ln=True)
-    
+    pdf.set_xy(51, 76.5)
     pdf.set_font("Arial", "B", 12)
-    pdf.set_x(70)
     pdf.multi_cell(120, 6, datos['nombre'])
 
-    pdf.set_x(70)
-    pdf.set_font("Arial", "", 11)
-    pdf.cell(0, 6, "El título de:", ln=True)
-
-    pdf.set_x(70)
+    pdf.set_xy(51,93)
     pdf.set_font("Arial", "B", 12)
     pdf.multi_cell(120, 6, datos['carrera'])
 
@@ -63,26 +55,22 @@ def generar_pdf(datos, salida="TituloDigital.pdf"):
     pdf.multi_cell(160, 6, f"El título fue expedido en Tepic, Nayarit, México, el día {datos['fecha_expedicion']}.")
 
     # LÍNEA DIVISORIA
-    pdf.line(25, 165, 185, 165)
+    #pdf.line(25, 165, 185, 165)
 
     # DATOS ADMINISTRATIVOS EN DOS LÍNEAS
-    pdf.set_font("Arial", "", 10)
-    pdf.set_xy(25, 170)
-    pdf.cell(70, 6, f"Clave de Institución: {datos['clave_institucion']}", ln=0)
-    pdf.cell(70, 6, f"Clave de Carrera: {datos['clave_carrera']}", ln=1)
+   
+    pdf.set_xy(60, 170)
+    pdf.cell(70, 6, f"Clave de Institución: {datos['clave_institucion']}        Clave de Carrera: {datos['clave_carrera']}")
+   
 
-    pdf.set_x(25)
-    pdf.cell(70, 6, f"Fecha de Terminación: {datos['fecha_terminacion']}", ln=0)
-    pdf.cell(70, 6, f"Folio: {datos['folio']}", ln=1)
-
-    # LÍNEA DIVISORIA INFERIOR
-    pdf.line(25, 185, 185, 185)
+    pdf.set_xy(60,180)
+    pdf.cell(70, 6, f"Fecha de Terminación: {datos['fecha_terminacion']}        Folio: {datos['folio']}")
 
     # QR
     qr = qrcode.make(f"https://proyecta.upen.edu.mx/valida?folio={datos['folio']}")
     qr_path = os.path.join(recursos_dir, "qr_temp.png")
     qr.save(qr_path)
-    pdf.image(qr_path, x=28, y=190, w=28)
+    pdf.image(qr_path, x=20.5, y=166, w=30)
 
     # TEXTO QR
     pdf.set_font("Arial", "", 7)
@@ -94,7 +82,7 @@ def generar_pdf(datos, salida="TituloDigital.pdf"):
     # SELLO DIGITAL
     sello_path = os.path.join(recursos_dir, "sello_digital.png")
     if os.path.exists(sello_path):
-        pdf.image(sello_path, x=150, y=190, w=40)
+        pdf.image(sello_path, x=150, y=190, w=150)
 
     # SELLOS Y CADENA ORIGINAL
     pdf.set_xy(25, 235)
