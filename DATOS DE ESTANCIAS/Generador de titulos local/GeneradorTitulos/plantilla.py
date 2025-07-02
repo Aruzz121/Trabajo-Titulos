@@ -9,9 +9,10 @@ class PDF(FPDF):
         pass
 
     def footer(self):
-        self.set_y(-15)
-        self.set_font("Arial", "I", 8)
-        self.cell(0, 10, f"Página {self.page_no()}", align=Align.C)
+        #self.set_y(-15)
+        #self.set_font("Arial", "I", 8)
+        #self.cell(0, 10, f"Página {self.page_no()}", align=Align.C)
+        pass
 
 def generar_pdf(datos, salida="TituloDigital.pdf"):
     pdf = PDF()
@@ -28,7 +29,7 @@ def generar_pdf(datos, salida="TituloDigital.pdf"):
     # FOTO DEL ALUMNO
     foto_path = os.path.join(recursos_dir, "foto_alumno.jpg")
     if os.path.exists(foto_path):
-        pdf.image(foto_path, x=25, y=48, w=35, h=45)
+        pdf.image(foto_path, x=20, y=48, w=35, h=45)
 
     # DATOS DEL ALUMNO
     pdf.set_xy(70, 50)
