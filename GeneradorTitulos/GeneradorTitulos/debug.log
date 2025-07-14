@@ -1,0 +1,293 @@
+[2025-07-11 21:49:10] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:49:10] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:49:10] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf7EA1.tmp
+[2025-07-11 21:49:10] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf7EA1.tmp" 2>&1
+[2025-07-11 21:49:11] Código de salida del comando: 0
+[2025-07-11 21:49:11] Tamaño del archivo generado: 478605 bytes
+[2025-07-11 21:50:16] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:50:16] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:50:16] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf7E47.tmp
+[2025-07-11 21:50:16] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf7E47.tmp" 2>&1
+[2025-07-11 21:50:17] Código de salida del comando: 0
+[2025-07-11 21:50:17] Tamaño del archivo generado: 478613 bytes
+[2025-07-11 21:51:55] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:51:55] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:51:55] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf333.tmp
+[2025-07-11 21:51:55] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf333.tmp" 2>&1
+[2025-07-11 21:51:56] Código de salida del comando: 0
+[2025-07-11 21:51:56] Tamaño del archivo generado: 478573 bytes
+[2025-07-11 21:54:11] Iniciando generación de PDF para matrícula: 170011, carrera: I-SOFT
+[2025-07-11 21:54:11] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:54:11] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf155B.tmp
+[2025-07-11 21:54:11] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170011" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf155B.tmp" 2>&1
+[2025-07-11 21:54:11] Código de salida del comando: 1
+[2025-07-11 21:54:11] Tamaño del archivo generado: 27 bytes
+[2025-07-11 21:54:15] Iniciando generación de PDF para matrícula: 170011, carrera: I-AGRT
+[2025-07-11 21:54:15] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:54:15] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf2663.tmp
+[2025-07-11 21:54:15] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170011" "I-AGRT" > "C:\Users\luisa\AppData\Local\Temp\pdf2663.tmp" 2>&1
+[2025-07-11 21:54:16] Código de salida del comando: 0
+[2025-07-11 21:54:16] Tamaño del archivo generado: 461395 bytes
+[2025-07-11 21:55:32] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 21:55:32] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:55:32] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf5290.tmp
+[2025-07-11 21:55:32] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf5290.tmp" 2>&1
+[2025-07-11 21:55:32] Código de salida del comando: 1
+[2025-07-11 21:55:32] Tamaño del archivo generado: 27 bytes
+[2025-07-11 21:55:38] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:55:38] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:55:38] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf69E1.tmp
+[2025-07-11 21:55:38] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf69E1.tmp" 2>&1
+[2025-07-11 21:55:38] Código de salida del comando: 1
+[2025-07-11 21:55:38] Tamaño del archivo generado: 27 bytes
+[2025-07-11 21:55:41] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:55:41] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:55:41] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf7472.tmp
+[2025-07-11 21:55:41] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf7472.tmp" 2>&1
+[2025-07-11 21:55:41] Código de salida del comando: 1
+[2025-07-11 21:55:41] Tamaño del archivo generado: 27 bytes
+[2025-07-11 21:55:55] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:55:55] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:55:55] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfADDA.tmp
+[2025-07-11 21:55:55] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfADDA.tmp" 2>&1
+[2025-07-11 21:55:57] Código de salida del comando: 0
+[2025-07-11 21:55:57] Tamaño del archivo generado: 478598 bytes
+[2025-07-11 21:59:09] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:59:09] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:59:09] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfA3A3.tmp
+[2025-07-11 21:59:09] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfA3A3.tmp" 2>&1
+[2025-07-11 21:59:11] Código de salida del comando: 0
+[2025-07-11 21:59:11] Tamaño del archivo generado: 478586 bytes
+[2025-07-11 21:59:37] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:59:37] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:59:37] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf10B6.tmp
+[2025-07-11 21:59:37] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf10B6.tmp" 2>&1
+[2025-07-11 21:59:39] Código de salida del comando: 0
+[2025-07-11 21:59:39] Tamaño del archivo generado: 478580 bytes
+[2025-07-11 21:59:42] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 21:59:42] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 21:59:42] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf2336.tmp
+[2025-07-11 21:59:42] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf2336.tmp" 2>&1
+[2025-07-11 21:59:43] Código de salida del comando: 0
+[2025-07-11 21:59:43] Tamaño del archivo generado: 478579 bytes
+[2025-07-11 22:02:26] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:02:26] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:02:26] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfA406.tmp
+[2025-07-11 22:02:26] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfA406.tmp" 2>&1
+[2025-07-11 22:02:27] Código de salida del comando: 0
+[2025-07-11 22:02:27] Tamaño del archivo generado: 478619 bytes
+[2025-07-11 22:02:39] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:02:39] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:02:39] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfD74C.tmp
+[2025-07-11 22:02:39] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfD74C.tmp" 2>&1
+[2025-07-11 22:02:40] Código de salida del comando: 0
+[2025-07-11 22:02:40] Tamaño del archivo generado: 478603 bytes
+[2025-07-11 22:02:44] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:02:44] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:02:44] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfEAD5.tmp
+[2025-07-11 22:02:44] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfEAD5.tmp" 2>&1
+[2025-07-11 22:02:45] Código de salida del comando: 0
+[2025-07-11 22:02:45] Tamaño del archivo generado: 478609 bytes
+[2025-07-11 22:09:17] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:09:17] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:09:17] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfE8B5.tmp
+[2025-07-11 22:09:17] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfE8B5.tmp" 2>&1
+[2025-07-11 22:09:17] Código de salida del comando: 1
+[2025-07-11 22:09:17] Salida del comando: 
+[2025-07-11 22:09:17] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:09:23] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:09:23] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:09:23] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfFFB9.tmp
+[2025-07-11 22:09:23] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfFFB9.tmp" 2>&1
+[2025-07-11 22:09:24] Código de salida del comando: 0
+[2025-07-11 22:09:24] Salida del comando: 
+[2025-07-11 22:09:24] Tamaño del archivo generado: 478610 bytes
+[2025-07-11 22:09:51] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:09:51] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:09:51] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf6DE5.tmp
+[2025-07-11 22:09:51] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf6DE5.tmp" 2>&1
+[2025-07-11 22:09:51] Código de salida del comando: 1
+[2025-07-11 22:09:51] Salida del comando: 
+[2025-07-11 22:09:51] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:10:01] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:10:01] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:10:01] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf939E.tmp
+[2025-07-11 22:10:01] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf939E.tmp" 2>&1
+[2025-07-11 22:10:01] Código de salida del comando: 1
+[2025-07-11 22:10:01] Salida del comando: 
+[2025-07-11 22:10:01] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:10:55] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:10:55] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:10:55] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf6893.tmp
+[2025-07-11 22:10:55] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf6893.tmp" 2>&1
+[2025-07-11 22:10:55] Código de salida del comando: 1
+[2025-07-11 22:10:55] Salida del comando: 
+[2025-07-11 22:10:55] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:13:56] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:13:56] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:13:56] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf2A54.tmp
+[2025-07-11 22:13:56] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf2A54.tmp" 2>&1
+[2025-07-11 22:13:56] Código de salida del comando: 1
+[2025-07-11 22:13:56] Salida del comando: 
+[2025-07-11 22:13:56] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:13:59] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:13:59] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:13:59] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf3513.tmp
+[2025-07-11 22:13:59] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf3513.tmp" 2>&1
+[2025-07-11 22:13:59] Código de salida del comando: 1
+[2025-07-11 22:13:59] Salida del comando: 
+[2025-07-11 22:13:59] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:14:10] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:14:10] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:14:10] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf626D.tmp
+[2025-07-11 22:14:10] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf626D.tmp" 2>&1
+[2025-07-11 22:14:10] Código de salida del comando: 1
+[2025-07-11 22:14:10] Salida del comando: 
+[2025-07-11 22:14:10] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:14:30] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:14:30] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:14:30] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfAEE8.tmp
+[2025-07-11 22:14:30] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfAEE8.tmp" 2>&1
+[2025-07-11 22:14:30] Código de salida del comando: 1
+[2025-07-11 22:14:30] Salida del comando: 
+[2025-07-11 22:14:30] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:15:34] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:15:34] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:15:34] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfA928.tmp
+[2025-07-11 22:15:34] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfA928.tmp" 2>&1
+[2025-07-11 22:15:34] Código de salida del comando: 1
+[2025-07-11 22:15:34] Salida del comando: 
+[2025-07-11 22:15:34] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:15:37] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:15:37] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:15:37] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfB3F7.tmp
+[2025-07-11 22:15:37] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfB3F7.tmp" 2>&1
+[2025-07-11 22:15:37] Código de salida del comando: 1
+[2025-07-11 22:15:37] Salida del comando: 
+[2025-07-11 22:15:37] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:15:43] Iniciando generación de PDF para matrícula: 230032, carrera: I-SOFT
+[2025-07-11 22:15:43] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:15:43] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfCE27.tmp
+[2025-07-11 22:15:43] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfCE27.tmp" 2>&1
+[2025-07-11 22:15:44] Código de salida del comando: 1
+[2025-07-11 22:15:44] Salida del comando: 
+[2025-07-11 22:15:44] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:16:10] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:16:10] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:16:10] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf35DB.tmp
+[2025-07-11 22:16:10] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf35DB.tmp" 2>&1
+[2025-07-11 22:16:11] Código de salida del comando: 0
+[2025-07-11 22:16:11] Salida del comando: 
+[2025-07-11 22:16:11] Tamaño del archivo generado: 478549 bytes
+[2025-07-11 22:16:46] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:16:46] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:16:46] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfC402.tmp
+[2025-07-11 22:16:46] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfC402.tmp" 2>&1
+[2025-07-11 22:16:47] Código de salida del comando: 0
+[2025-07-11 22:16:47] Salida del comando: 
+[2025-07-11 22:16:47] Tamaño del archivo generado: 478605 bytes
+[2025-07-11 22:20:42] Iniciando generación de PDF para matrícula: 230032, carrera: I-PA
+[2025-07-11 22:20:42] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:20:42] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf5E7F.tmp
+[2025-07-11 22:20:42] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "230032" "I-PA" > "C:\Users\luisa\AppData\Local\Temp\pdf5E7F.tmp" 2>&1
+[2025-07-11 22:20:43] Código de salida del comando: 1
+[2025-07-11 22:20:43] Salida del comando: 
+[2025-07-11 22:20:43] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:20:53] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:20:53] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:20:53] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf865C.tmp
+[2025-07-11 22:20:53] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf865C.tmp" 2>&1
+[2025-07-11 22:20:54] Código de salida del comando: 0
+[2025-07-11 22:20:54] Salida del comando: 
+[2025-07-11 22:20:54] Tamaño del archivo generado: 478538 bytes
+[2025-07-11 22:21:39] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:21:39] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:21:39] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf3C10.tmp
+[2025-07-11 22:21:39] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf3C10.tmp" 2>&1
+[2025-07-11 22:21:39] Código de salida del comando: 1
+[2025-07-11 22:21:39] Salida del comando: 
+[2025-07-11 22:21:39] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:21:51] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:21:51] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:21:51] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf6C22.tmp
+[2025-07-11 22:21:51] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf6C22.tmp" 2>&1
+[2025-07-11 22:21:53] Código de salida del comando: 0
+[2025-07-11 22:21:53] Salida del comando: 
+[2025-07-11 22:21:53] Tamaño del archivo generado: 478611 bytes
+[2025-07-11 22:22:08] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:22:08] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:22:08] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfAB20.tmp
+[2025-07-11 22:22:08] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfAB20.tmp" 2>&1
+[2025-07-11 22:22:09] Código de salida del comando: 0
+[2025-07-11 22:22:09] Salida del comando: 
+[2025-07-11 22:22:09] Tamaño del archivo generado: 478610 bytes
+[2025-07-11 22:22:24] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:22:24] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:22:24] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfEA1E.tmp
+[2025-07-11 22:22:24] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfEA1E.tmp" 2>&1
+[2025-07-11 22:22:25] Código de salida del comando: 0
+[2025-07-11 22:22:25] Salida del comando: 
+[2025-07-11 22:22:25] Tamaño del archivo generado: 478581 bytes
+[2025-07-11 22:22:29] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:22:29] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:22:29] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfFF4D.tmp
+[2025-07-11 22:22:29] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfFF4D.tmp" 2>&1
+[2025-07-11 22:22:30] Código de salida del comando: 0
+[2025-07-11 22:22:30] Salida del comando: 
+[2025-07-11 22:22:30] Tamaño del archivo generado: 478569 bytes
+[2025-07-11 22:24:43] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:24:43] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:24:43] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdfB2B.tmp
+[2025-07-11 22:24:43] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdfB2B.tmp" 2>&1
+[2025-07-11 22:24:43] Código de salida del comando: 1
+[2025-07-11 22:24:43] Salida del comando: 
+[2025-07-11 22:24:43] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:24:54] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:24:54] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:24:54] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf365B.tmp
+[2025-07-11 22:24:54] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf365B.tmp" 2>&1
+[2025-07-11 22:24:55] Código de salida del comando: 0
+[2025-07-11 22:24:55] Salida del comando: 
+[2025-07-11 22:24:55] Tamaño del archivo generado: 478585 bytes
+[2025-07-11 22:25:16] Iniciando generación de PDF para matrícula: 170017, carrera: I-SOFT
+[2025-07-11 22:25:16] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:25:16] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf8A49.tmp
+[2025-07-11 22:25:16] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf8A49.tmp" 2>&1
+[2025-07-11 22:25:17] Código de salida del comando: 0
+[2025-07-11 22:25:17] Salida del comando: 
+[2025-07-11 22:25:17] Tamaño del archivo generado: 478460 bytes
+[2025-07-11 22:25:52] Iniciando generación de PDF para matrícula: 110017, carrera: I-SOFT
+[2025-07-11 22:25:52] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:25:52] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf17A5.tmp
+[2025-07-11 22:25:52] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "110017" "I-SOFT" > "C:\Users\luisa\AppData\Local\Temp\pdf17A5.tmp" 2>&1
+[2025-07-11 22:25:52] Código de salida del comando: 1
+[2025-07-11 22:25:52] Salida del comando: 
+[2025-07-11 22:25:52] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:25:55] Iniciando generación de PDF para matrícula: 110017, carrera: I-AGRT
+[2025-07-11 22:25:55] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:25:55] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf2468.tmp
+[2025-07-11 22:25:55] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "110017" "I-AGRT" > "C:\Users\luisa\AppData\Local\Temp\pdf2468.tmp" 2>&1
+[2025-07-11 22:25:55] Código de salida del comando: 1
+[2025-07-11 22:25:55] Salida del comando: 
+[2025-07-11 22:25:55] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:26:02] Iniciando generación de PDF para matrícula: 110017, carrera: L-NA
+[2025-07-11 22:26:02] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:26:02] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf3D7F.tmp
+[2025-07-11 22:26:02] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "110017" "L-NA" > "C:\Users\luisa\AppData\Local\Temp\pdf3D7F.tmp" 2>&1
+[2025-07-11 22:26:02] Código de salida del comando: 1
+[2025-07-11 22:26:02] Salida del comando: 
+[2025-07-11 22:26:02] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:26:20] Iniciando generación de PDF para matrícula: 110017, carrera: I-AGRT
+[2025-07-11 22:26:20] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:26:20] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf84CA.tmp
+[2025-07-11 22:26:20] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "110017" "I-AGRT" > "C:\Users\luisa\AppData\Local\Temp\pdf84CA.tmp" 2>&1
+[2025-07-11 22:26:20] Código de salida del comando: 1
+[2025-07-11 22:26:20] Salida del comando: 
+[2025-07-11 22:26:20] Tamaño del archivo generado: 27 bytes
+[2025-07-11 22:26:25] Iniciando generación de PDF para matrícula: 170011, carrera: I-AGRT
+[2025-07-11 22:26:25] Directorio actual: C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos
+[2025-07-11 22:26:25] Archivo temporal creado: C:\Users\luisa\AppData\Local\Temp\pdf99CA.tmp
+[2025-07-11 22:26:25] Ejecutando comando: python "C:\xampp\htdocs\TRABAJO_DE_ESTANCIAS-2\GeneradorTitulos\main.py" "170011" "I-AGRT" > "C:\Users\luisa\AppData\Local\Temp\pdf99CA.tmp" 2>&1
+[2025-07-11 22:26:26] Código de salida del comando: 0
+[2025-07-11 22:26:26] Salida del comando: 
+[2025-07-11 22:26:26] Tamaño del archivo generado: 461440 bytes
